@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Winter Story', sans-serif;
+    text-align: center;
+    font-size: 120px;
+    color: rgb(36, 143, 36);
+} 
+h3{
+    font-family: 'Christmas Shine Italic', sans-serif;
+    font-size: 50px;
+    color: rgb(252, 23, 23);
+    margin-left: 100px;
+}
+img{
+    height: 400px;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: rgb(36, 143, 36) ;
+    margin-left: 200px;
+}
+#decoracion{
+    font-family: 'Lettertype Mies Christmas Icons', sans-serif;
+    font-size: 75px;
+    color: rgb(163, 163, 5);
+}
+#regalos{
+    font-family: 'Lettertype Mies Christmas Icons', sans-serif;
+    font-size: 100px;
+    color: orange;
+}
+
+
+
+
